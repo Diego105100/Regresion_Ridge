@@ -1,4 +1,5 @@
 import streamlit as st
+pip install pycaret
 from pycaret.regression import load_model
 from pycaret.regression import predict_model
 import pandas as pd
